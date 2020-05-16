@@ -19,9 +19,15 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
+<<<<<<< HEAD
               ポートフォリオサイト一覧です
               <br />
               技術：React.jsによるフロントエンド Pythonによる機械学習アプリ
+=======
+              Ipsum lorem dolor aliquam ante commodo
+              <br />
+              magna sed accumsan arcu neque.
+>>>>>>> b0d0025c145ae83ce077095e899b76939355ff5d
             </h2>
           </header>
           <p>

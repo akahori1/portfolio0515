@@ -26,9 +26,15 @@ const Footer = () => (
         </li>
       </ul>
       <ul className="copyright">
+<<<<<<< HEAD
         <li>&copy; Shotaro Akahori</li>
         <li>
           Design: <a href="http://html5up.net">Shotaro Akahori</a>
+=======
+        <li>&copy; Gatsby Starter Strata</li>
+        <li>
+          Design: <a href="http://html5up.net">HTML5 UP</a>
+>>>>>>> b0d0025c145ae83ce077095e899b76939355ff5d
         </li>
       </ul>
     </div>
